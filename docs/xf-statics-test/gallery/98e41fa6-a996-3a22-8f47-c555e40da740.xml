@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:skyit="http://www.sky.it/RSS" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
+<channel>
+<data_cache>07-08-20 13:00:00</data_cache>
+<map/>
+<data_odierna>07/08/2020</data_odierna>
+<ultima_puntata>Finale</ultima_puntata>
+<title>X Factor | Sky Uno</title>
+<atom:link href="https://xfactor.sky.it/" rel="self" type="application/rss+xml"/>
+<link>https://xfactor.sky.it</link>
+<description/>
+<lastBuildDate>Fri, 7 Aug 2020 13:00:00 GMT</lastBuildDate>
+<language/>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator/>
+<item>
+<tags>
+
+</tags>
+<title>Test Gallery 3</title>
+<link>https://xfactor.sky.it/foto/test-gallery-3</link>
+<pubDate>Fri, 7 Aug 2020 13:00:00 GMT</pubDate>
+<skyit:views>0</skyit:views>
+<description><![CDATA[Test Gallery di prova 3]]></description>
+<slash:comments>0</slash:comments>
+<skyit:article_thumb><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt0b33476df4438e98/5f2942ab7ca22b018aed6685/VISORE-SPOILER-MIKA.jpg]]></skyit:article_thumb>
+<skyit:article_thumb_portale_sky><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt0b33476df4438e98/5f2942ab7ca22b018aed6685/VISORE-SPOILER-MIKA.jpg]]></skyit:article_thumb_portale_sky>
+<skyit:article_thumb_hires><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt0b33476df4438e98/5f2942ab7ca22b018aed6685/VISORE-SPOILER-MIKA.jpg]]></skyit:article_thumb_hires>
+<skyit:image><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt0b33476df4438e98/5f2942ab7ca22b018aed6685/VISORE-SPOILER-MIKA.jpg]]></skyit:image>
+<skyit:article_title>Test Gallery 3</skyit:article_title>
+<skyit:article_summary>Test Gallery di prova 3</skyit:article_summary>
+<skyit:article_content_html><![CDATA[<p>Test Gallery di prova 3</p>]]></skyit:article_content_html>
+<skyit:article_gallery>
+<skyit:article_gallery_img>
+<skyit:article_gallery_img_thumb><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt0b33476df4438e98/5f2942ab7ca22b018aed6685/VISORE-SPOILER-MIKA.jpg]]></skyit:article_gallery_img_thumb>
+<skyit:article_gallery_img_medium><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt0b33476df4438e98/5f2942ab7ca22b018aed6685/VISORE-SPOILER-MIKA.jpg]]></skyit:article_gallery_img_medium>
+<skyit:article_gallery_img_large><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt0b33476df4438e98/5f2942ab7ca22b018aed6685/VISORE-SPOILER-MIKA.jpg]]></skyit:article_gallery_img_large>
+<skyit:article_gallery_img_hires><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt0b33476df4438e98/5f2942ab7ca22b018aed6685/VISORE-SPOILER-MIKA.jpg]]></skyit:article_gallery_img_hires>
+</skyit:article_gallery_img>
+<skyit:article_gallery_img>
+<skyit:article_gallery_img_thumb><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt8cee30d7b7e0aad5/5f2c1e249263024904edccbf/2.png]]></skyit:article_gallery_img_thumb>
+<skyit:article_gallery_img_medium><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt8cee30d7b7e0aad5/5f2c1e249263024904edccbf/2.png]]></skyit:article_gallery_img_medium>
+<skyit:article_gallery_img_large><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt8cee30d7b7e0aad5/5f2c1e249263024904edccbf/2.png]]></skyit:article_gallery_img_large>
+<skyit:article_gallery_img_hires><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt8cee30d7b7e0aad5/5f2c1e249263024904edccbf/2.png]]></skyit:article_gallery_img_hires>
+</skyit:article_gallery_img>
+<skyit:article_gallery_img>
+<skyit:article_gallery_img_thumb><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt700a5777fb69236f/5f2c1e42d9a24d7c67e4f77b/cq5dam.web.620.388_(1).png]]></skyit:article_gallery_img_thumb>
+<skyit:article_gallery_img_medium><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt700a5777fb69236f/5f2c1e42d9a24d7c67e4f77b/cq5dam.web.620.388_(1).png]]></skyit:article_gallery_img_medium>
+<skyit:article_gallery_img_large><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt700a5777fb69236f/5f2c1e42d9a24d7c67e4f77b/cq5dam.web.620.388_(1).png]]></skyit:article_gallery_img_large>
+<skyit:article_gallery_img_hires><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt700a5777fb69236f/5f2c1e42d9a24d7c67e4f77b/cq5dam.web.620.388_(1).png]]></skyit:article_gallery_img_hires>
+</skyit:article_gallery_img>
+<skyit:article_gallery_img>
+<skyit:article_gallery_img_thumb><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt551aee9473326768/5f2c1e609263024904edccc3/cq5dam.web.620.388_(2).png]]></skyit:article_gallery_img_thumb>
+<skyit:article_gallery_img_medium><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt551aee9473326768/5f2c1e609263024904edccc3/cq5dam.web.620.388_(2).png]]></skyit:article_gallery_img_medium>
+<skyit:article_gallery_img_large><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt551aee9473326768/5f2c1e609263024904edccc3/cq5dam.web.620.388_(2).png]]></skyit:article_gallery_img_large>
+<skyit:article_gallery_img_hires><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt551aee9473326768/5f2c1e609263024904edccc3/cq5dam.web.620.388_(2).png]]></skyit:article_gallery_img_hires>
+</skyit:article_gallery_img>
+<skyit:article_gallery_img>
+<skyit:article_gallery_img_thumb><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/bltf50a3e27caae056e/5f2c1e739af97004e7f63097/cq5dam.web.620.388.png]]></skyit:article_gallery_img_thumb>
+<skyit:article_gallery_img_medium><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/bltf50a3e27caae056e/5f2c1e739af97004e7f63097/cq5dam.web.620.388.png]]></skyit:article_gallery_img_medium>
+<skyit:article_gallery_img_large><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/bltf50a3e27caae056e/5f2c1e739af97004e7f63097/cq5dam.web.620.388.png]]></skyit:article_gallery_img_large>
+<skyit:article_gallery_img_hires><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/bltf50a3e27caae056e/5f2c1e739af97004e7f63097/cq5dam.web.620.388.png]]></skyit:article_gallery_img_hires>
+</skyit:article_gallery_img>
+<skyit:article_gallery_img>
+<skyit:article_gallery_img_thumb><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt551aee9473326768/5f2c1e609263024904edccc3/cq5dam.web.620.388_(2).png]]></skyit:article_gallery_img_thumb>
+<skyit:article_gallery_img_medium><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt551aee9473326768/5f2c1e609263024904edccc3/cq5dam.web.620.388_(2).png]]></skyit:article_gallery_img_medium>
+<skyit:article_gallery_img_large><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt551aee9473326768/5f2c1e609263024904edccc3/cq5dam.web.620.388_(2).png]]></skyit:article_gallery_img_large>
+<skyit:article_gallery_img_hires><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt551aee9473326768/5f2c1e609263024904edccc3/cq5dam.web.620.388_(2).png]]></skyit:article_gallery_img_hires>
+</skyit:article_gallery_img>
+</skyit:article_gallery>
+</item>
+</channel>
+</rss>
