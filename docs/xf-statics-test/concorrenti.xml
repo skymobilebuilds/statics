@@ -2,7 +2,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:skyit="http://www.sky.it/RSS" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
 <channel>
-<data_cache>14-08-20 16:25:31</data_cache>
+<data_cache>14-08-20 16:34:00</data_cache>
 <map/>
 <data_odierna>14/08/2020</data_odierna>
 <ultima_puntata>Finale</ultima_puntata>
@@ -10,11 +10,59 @@
 <atom:link href="https://xfactor.sky.it/" rel="self" type="application/rss+xml"/>
 <link>https://xfactor.sky.it</link>
 <description/>
-<lastBuildDate>Fri, 14 Aug 2020 16:25:31 +0200</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2020 16:34:00 +0200</lastBuildDate>
 <language/>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator/>
+<item>
+<talent_id>10</talent_id>
+<position>2</position>
+<surname><![CDATA[Campagna]]></surname>
+<name><![CDATA[Eugenio]]></name>
+<nickname><![CDATA[Eugenio]]></nickname>
+<idcoach>0</idcoach>
+<description_short><![CDATA[Prova]]></description_short>
+<profile><![CDATA[Prova]]></profile>
+<link><![CDATA[https://xfactor.sky.it/concorrenti/eugenio-campagna]]></link>
+<image_profile_app/>
+<image_profile>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt9f46e1157dada3fc/5f297a487ca22b018aed689b/eugenio_240x240.jpg</image_profile>
+<image_thumb/>
+<app_image_thumbnail_cluster_on>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blteed6383b4f5ce933/5f297a499263024904edbe3b/eugenio_cluster_on_new.jpg</app_image_thumbnail_cluster_on>
+<app_image_thumbnail_cluster_off>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/bltb13069784243da74/5f297a4928ef1e01dfb4fd4a/eugenio_cluster_off.jpg</app_image_thumbnail_cluster_off>
+<app_image_profile_detail_on>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt8caaa616aca7945f/5f297a4a8e1e8d4046e9d213/eugenio_detail_on.jpg</app_image_profile_detail_on>
+<app_image_profile_detail_off>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt5728ce107ddd53b2/5f297a4a7f3b7908db030831/eugenio_detail_off.jpg</app_image_profile_detail_off>
+<app_image_vote_thumbnail>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt8662ee0b6af0d355/5f297a499af97004e7f622b4/eugenio_vote_thumbnail.jpg</app_image_vote_thumbnail>
+<app_image_vote_detail>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt4e07fca9f60d8fee/5f297a4a48d3b57cb9747c04/eugenio_vote_detail.jpg</app_image_vote_detail>
+<image_thumb_black_white/>
+<status><![CDATA[fuori-gara]]></status>
+<talent_tag><![CDATA[eugenio-campagna]]></talent_tag>
+<news_url><![CDATA[https://xfactor.sky.it/]]></news_url>
+</item>
+<item>
+<talent_id>1</talent_id>
+<position>3</position>
+<surname><![CDATA[]]></surname>
+<name><![CDATA[Booda]]></name>
+<nickname><![CDATA[Booda]]></nickname>
+<idcoach>2</idcoach>
+<description_short><![CDATA[Prova 1234]]></description_short>
+<profile><![CDATA[Prova 1234]]></profile>
+<link><![CDATA[https://xfactor.sky.it/concorrenti/booda]]></link>
+<image_profile_app/>
+<image_profile>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt4e159e20b357cf61/5f2988537ca22b018aed6907/booda_240x240.jpg</image_profile>
+<image_thumb/>
+<app_image_thumbnail_cluster_on>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt75b45363ff653144/5f2988547f3b7908db03088d/booda_cluster_on.jpg</app_image_thumbnail_cluster_on>
+<app_image_thumbnail_cluster_off>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt034442d727a0d84e/5f2988538e1e8d4046e9d279/booda_cluster_off.jpg</app_image_thumbnail_cluster_off>
+<app_image_profile_detail_on>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blta524fda7d399fcc9/5f2988559751e50576cb9df5/booda_detail_on.jpg</app_image_profile_detail_on>
+<app_image_profile_detail_off>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blte2643eb1fafe3ed6/5f2988551967337e7590b57e/booda_detail_off.jpg</app_image_profile_detail_off>
+<app_image_vote_thumbnail>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt90cdadea73d701ed/5f298854327a6201d7eb8dc7/booda_vote_thumbnail.jpg</app_image_vote_thumbnail>
+<app_image_vote_detail>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt2fe1091ac088b3ec/5f29885528ef1e01dfb4fdaf/booda_vote_detail.jpg</app_image_vote_detail>
+<image_thumb_black_white/>
+<status><![CDATA[fuori-gara]]></status>
+<talent_tag><![CDATA[booda]]></talent_tag>
+<news_url><![CDATA[https://xfactor.sky.it/]]></news_url>
+</item>
 <item>
 <talent_id>2</talent_id>
 <position>4</position>
@@ -253,54 +301,6 @@
 <image_thumb_black_white/>
 <status><![CDATA[fuori-gara]]></status>
 <talent_tag><![CDATA[lorenzo]]></talent_tag>
-<news_url><![CDATA[https://xfactor.sky.it/]]></news_url>
-</item>
-<item>
-<talent_id>1</talent_id>
-<position>3</position>
-<surname><![CDATA[]]></surname>
-<name><![CDATA[Booda]]></name>
-<nickname><![CDATA[Booda]]></nickname>
-<idcoach>2</idcoach>
-<description_short><![CDATA[Prova 1234]]></description_short>
-<profile><![CDATA[Prova 1234]]></profile>
-<link><![CDATA[https://xfactor.sky.it/concorrenti/booda]]></link>
-<image_profile_app/>
-<image_profile>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt4e159e20b357cf61/5f2988537ca22b018aed6907/booda_240x240.jpg</image_profile>
-<image_thumb/>
-<app_image_thumbnail_cluster_on>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt75b45363ff653144/5f2988547f3b7908db03088d/booda_cluster_on.jpg</app_image_thumbnail_cluster_on>
-<app_image_thumbnail_cluster_off>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt034442d727a0d84e/5f2988538e1e8d4046e9d279/booda_cluster_off.jpg</app_image_thumbnail_cluster_off>
-<app_image_profile_detail_on>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blta524fda7d399fcc9/5f2988559751e50576cb9df5/booda_detail_on.jpg</app_image_profile_detail_on>
-<app_image_profile_detail_off>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blte2643eb1fafe3ed6/5f2988551967337e7590b57e/booda_detail_off.jpg</app_image_profile_detail_off>
-<app_image_vote_thumbnail>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt90cdadea73d701ed/5f298854327a6201d7eb8dc7/booda_vote_thumbnail.jpg</app_image_vote_thumbnail>
-<app_image_vote_detail>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt2fe1091ac088b3ec/5f29885528ef1e01dfb4fdaf/booda_vote_detail.jpg</app_image_vote_detail>
-<image_thumb_black_white/>
-<status><![CDATA[in-gara]]></status>
-<talent_tag><![CDATA[booda]]></talent_tag>
-<news_url><![CDATA[https://xfactor.sky.it/]]></news_url>
-</item>
-<item>
-<talent_id>10</talent_id>
-<position>2</position>
-<surname><![CDATA[Campagna]]></surname>
-<name><![CDATA[Eugenio]]></name>
-<nickname><![CDATA[Eugenio]]></nickname>
-<idcoach>0</idcoach>
-<description_short><![CDATA[Prova]]></description_short>
-<profile><![CDATA[Prova]]></profile>
-<link><![CDATA[https://xfactor.sky.it/concorrenti/eugenio-campagna]]></link>
-<image_profile_app/>
-<image_profile>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt9f46e1157dada3fc/5f297a487ca22b018aed689b/eugenio_240x240.jpg</image_profile>
-<image_thumb/>
-<app_image_thumbnail_cluster_on>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blteed6383b4f5ce933/5f297a499263024904edbe3b/eugenio_cluster_on_new.jpg</app_image_thumbnail_cluster_on>
-<app_image_thumbnail_cluster_off>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/bltb13069784243da74/5f297a4928ef1e01dfb4fd4a/eugenio_cluster_off.jpg</app_image_thumbnail_cluster_off>
-<app_image_profile_detail_on>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt8caaa616aca7945f/5f297a4a8e1e8d4046e9d213/eugenio_detail_on.jpg</app_image_profile_detail_on>
-<app_image_profile_detail_off>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt5728ce107ddd53b2/5f297a4a7f3b7908db030831/eugenio_detail_off.jpg</app_image_profile_detail_off>
-<app_image_vote_thumbnail>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt8662ee0b6af0d355/5f297a499af97004e7f622b4/eugenio_vote_thumbnail.jpg</app_image_vote_thumbnail>
-<app_image_vote_detail>https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt4e07fca9f60d8fee/5f297a4a48d3b57cb9747c04/eugenio_vote_detail.jpg</app_image_vote_detail>
-<image_thumb_black_white/>
-<status><![CDATA[in-gara]]></status>
-<talent_tag><![CDATA[eugenio-campagna]]></talent_tag>
 <news_url><![CDATA[https://xfactor.sky.it/]]></news_url>
 </item>
 </channel>
