@@ -2,7 +2,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:skyit="http://www.sky.it/RSS" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
 <channel>
-<data_cache>14-08-20 12:10:11</data_cache>
+<data_cache>14-08-20 12:44:21</data_cache>
 <map/>
 <data_odierna>14/08/2020</data_odierna>
 <ultima_puntata>Finale</ultima_puntata>
@@ -10,7 +10,7 @@
 <atom:link href="https://xfactor.sky.it/" rel="self" type="application/rss+xml"/>
 <link>https://xfactor.sky.it</link>
 <description/>
-<lastBuildDate>Fri, 14 Aug 2020 12:10:11 +0200</lastBuildDate>
+<lastBuildDate>Fri, 14 Aug 2020 12:44:21 +0200</lastBuildDate>
 <language/>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,7 @@
 
 </tags>
 <title>Test Gallery 5</title>
-<link>http://localhost:8000/lambda-generated/gallery/c32c1f11-55dd-3a11-90f4-17dc806a3161.xml</link>
+<link>https://skymobilebuilds.github.io/statics/xf-statics-test/lambda-generated/gallery/c32c1f11-55dd-3a11-90f4-17dc806a3161.xml</link>
 <pubDate>Fri, 7 Aug 2020 13:00:00 GMT</pubDate>
 <skyit:views>0</skyit:views>
 <description><![CDATA[La mia anima è pervasa da una mirabile serenità, simile a queste belle mattinate di maggio che io godo con tutto il cuore. Sono solo e mi rallegro di vivere in questo luogo che sembra esser creato per anime simili alla mia. Sono così felice, mio caro, così immerso nel sentimento della mia tranquilla esistenza che la mia arte ne soffre. Non potrei disegnare nulla ora, neppure un segno potrei tracciare; eppure mai sono stato così gran pittore come in questo momento. Quando l'amata valle intorno a me si avvolge nei suoi vapori, e l'alto sole posa sulla mia foresta impenetrabilmente oscura, e solo alcuni raggi si spingono nell'interno sacrario, i]]></description>
@@ -38,7 +38,7 @@
 
 </tags>
 <title>Test Gallery 6</title>
-<link>http://localhost:8000/lambda-generated/gallery/a8180c21-ad9a-382c-8a7d-f7a8b5c6207d.xml</link>
+<link>https://skymobilebuilds.github.io/statics/xf-statics-test/lambda-generated/gallery/a8180c21-ad9a-382c-8a7d-f7a8b5c6207d.xml</link>
 <pubDate>Fri, 7 Aug 2020 13:00:00 GMT</pubDate>
 <skyit:views>0</skyit:views>
 <description><![CDATA[In una terra lontana, dietro le montagne Parole, lontani dalle terre di Vocalia e Consonantia, vivono i testi casuali. Vivono isolati nella cittadina di Lettere, sulle coste del Semantico, un immenso oceano linguistico. Un piccolo ruscello chiamato Devoto Oli attraversa quei luoghi, rifornendoli di tutte le regolalie di cui hanno bisogno. È una terra paradismatica, un paese della cuccagna in cui golose porzioni di proposizioni arrostite volano in bocca a chi le desideri. Non una volta i testi casuali sono stati dominati dall’onnipotente Interpunzione, una vita davvero non ortografica. Un giorno però accadde che la piccola riga di un testo cas]]></description>
@@ -56,7 +56,7 @@
 
 </tags>
 <title>Ultima photogallery</title>
-<link>http://localhost:8000/lambda-generated/gallery/e008d2ee-da21-3779-931f-9e933dc098b6.xml</link>
+<link>https://skymobilebuilds.github.io/statics/xf-statics-test/lambda-generated/gallery/e008d2ee-da21-3779-931f-9e933dc098b6.xml</link>
 <pubDate>Thu, 30 Jul 2020 13:00:00 GMT</pubDate>
 <skyit:views>0</skyit:views>
 <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus eleifend volutpat. Nulla quis eleifend velit. Vestibulum non ipsum ultricies eros lacinia volutpat pharetra quis dui. Donec malesuada ac tellus eu fermentum. In hac habitasse platea dictumst. Phasellus semper sagittis diam eget egestas. Vestibulum neque libero, facilisis sed ligula vitae, ullamcorper blandit neque. Curabitur sit amet dolor blandit, interdum leo in, ornare mi. Ut dapibus orci vel diam laoreet, in posuere nisl elementum. Maecenas pellentesque neque ac sollicitudin laoreet. Curabitur orci est, sagittis vitae varius sit amet, varius sit amet arcu. Fusce quis est mi. Maecenas nec porta est. Aliquam rutrum laoreet rhoncus. Nulla in elementum orci. Sed interdum ex tellus, vitae rhoncus justo scelerisque id. Nunc et nibh eget purus auctor malesuada in eu orci. Praesent interdum blandit mauris. Nunc volutpat maximus purus ut convallis. Pellentesque accumsan ipsum a dui finibus molestie. Aenean dignissim id justo quis dignissim. Aenean lobortis lacus sit amet eros sagittis, non maximus ante pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat volutpat. Curabitur sed odio eros. Proin at nibh tincidunt felis laoreet facilisis. Vivamus efficitur enim eros, vel rutrum dolor luctus nec.]]></description>
@@ -74,7 +74,7 @@
 
 </tags>
 <title>Galleria di prova Hell Raton</title>
-<link>http://localhost:8000/lambda-generated/gallery/0cf3986a-0628-36fc-a68a-268a5ca915f1.xml</link>
+<link>https://skymobilebuilds.github.io/statics/xf-statics-test/lambda-generated/gallery/0cf3986a-0628-36fc-a68a-268a5ca915f1.xml</link>
 <pubDate>Wed, 29 Jul 2020 13:00:00 GMT</pubDate>
 <skyit:views>0</skyit:views>
 <description><![CDATA[Galleria di foto di Hell Raton]]></description>
@@ -92,7 +92,7 @@
 
 </tags>
 <title>Photogallery 1</title>
-<link>http://localhost:8000/lambda-generated/gallery/8ad98156-9235-33a6-9a8b-9932bd9853d8.xml</link>
+<link>https://skymobilebuilds.github.io/statics/xf-statics-test/lambda-generated/gallery/8ad98156-9235-33a6-9a8b-9932bd9853d8.xml</link>
 <pubDate>Wed, 8 Jul 2020 13:00:00 GMT</pubDate>
 <skyit:views>0</skyit:views>
 <description><![CDATA[photogallery 1]]></description>
@@ -110,7 +110,7 @@
 
 </tags>
 <title>Test Gallery 2</title>
-<link>http://localhost:8000/lambda-generated/gallery/ac7e6ca2-b7eb-3b38-a9c9-ea14dfc78c61.xml</link>
+<link>https://skymobilebuilds.github.io/statics/xf-statics-test/lambda-generated/gallery/ac7e6ca2-b7eb-3b38-a9c9-ea14dfc78c61.xml</link>
 <pubDate>Fri, 7 Aug 2020 13:00:00 GMT</pubDate>
 <skyit:views>0</skyit:views>
 <description><![CDATA[Test Gallery di prova 2]]></description>
@@ -128,7 +128,7 @@
 
 </tags>
 <title>Test Gallery 1</title>
-<link>http://localhost:8000/lambda-generated/gallery/23a07ffc-44a9-369e-82de-e53ad8b4d813.xml</link>
+<link>https://skymobilebuilds.github.io/statics/xf-statics-test/lambda-generated/gallery/23a07ffc-44a9-369e-82de-e53ad8b4d813.xml</link>
 <pubDate>Fri, 7 Aug 2020 13:00:00 GMT</pubDate>
 <skyit:views>0</skyit:views>
 <description><![CDATA[Test Gallery di prova 1]]></description>
@@ -146,7 +146,7 @@
 
 </tags>
 <title>Test Gallery 3</title>
-<link>http://localhost:8000/lambda-generated/gallery/98e41fa6-a996-3a22-8f47-c555e40da740.xml</link>
+<link>https://skymobilebuilds.github.io/statics/xf-statics-test/lambda-generated/gallery/98e41fa6-a996-3a22-8f47-c555e40da740.xml</link>
 <pubDate>Fri, 7 Aug 2020 13:00:00 GMT</pubDate>
 <skyit:views>0</skyit:views>
 <description><![CDATA[Test Gallery di prova 3]]></description>
@@ -164,7 +164,7 @@
 
 </tags>
 <title>Test Gallery 4</title>
-<link>http://localhost:8000/lambda-generated/gallery/e2afb95b-273d-3e64-ab43-d86035d49bee.xml</link>
+<link>https://skymobilebuilds.github.io/statics/xf-statics-test/lambda-generated/gallery/e2afb95b-273d-3e64-ab43-d86035d49bee.xml</link>
 <pubDate>Fri, 7 Aug 2020 13:00:00 GMT</pubDate>
 <skyit:views>0</skyit:views>
 <description><![CDATA[Test Gallery di prova 4]]></description>
@@ -182,7 +182,7 @@
 
 </tags>
 <title>Galleria di prova puntate</title>
-<link>http://localhost:8000/lambda-generated/gallery/5223e65f-5e7d-321a-a4f8-19996e174696.xml</link>
+<link>https://skymobilebuilds.github.io/statics/xf-statics-test/lambda-generated/gallery/5223e65f-5e7d-321a-a4f8-19996e174696.xml</link>
 <pubDate>Wed, 29 Jul 2020 13:00:00 GMT</pubDate>
 <skyit:views>0</skyit:views>
 <description><![CDATA[Questa è un galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole, galleria di prova, la descrizione lorem ipsum dolor sit amet, test 100 parole.]]></description>
