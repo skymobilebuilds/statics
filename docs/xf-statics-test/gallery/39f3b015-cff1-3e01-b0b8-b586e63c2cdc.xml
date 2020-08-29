@@ -2,15 +2,15 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:skyit="http://www.sky.it/RSS" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
 <channel>
-<data_cache>30-07-20 13:00:00</data_cache>
+<data_cache>10-08-20 13:00:00</data_cache>
 <map/>
-<data_odierna>30/07/2020</data_odierna>
+<data_odierna>10/08/2020</data_odierna>
 <ultima_puntata>Finale</ultima_puntata>
 <title>X Factor | Sky Uno</title>
 <atom:link href="https://xfactor.sky.it/" rel="self" type="application/rss+xml"/>
 <link>https://xfactor.sky.it</link>
 <description/>
-<lastBuildDate>Thu, 30 Jul 2020 13:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2020 13:00:00 GMT</lastBuildDate>
 <language/>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
@@ -19,9 +19,9 @@
 <tags>
 
 </tags>
-<title>Ultima photogallery</title>
-<link>https://xfactor.sky.it/foto/ultima-photogallery</link>
-<pubDate>Thu, 30 Jul 2020 13:00:00 GMT</pubDate>
+<title>Bootcamp 1 Test</title>
+<link>https://xfactor.sky.it/foto/bootcamp-1-test</link>
+<pubDate>Mon, 10 Aug 2020 13:00:00 GMT</pubDate>
 <skyit:views>0</skyit:views>
 <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus eleifend volutpat. Nulla quis eleifend velit. Vestibulum non ipsum ultricies eros lacinia volutpat pharetra quis dui. Donec malesuada ac tellus eu fermentum. In hac habitasse platea dictumst. Phasellus semper sagittis diam eget egestas. Vestibulum neque libero, facilisis sed ligula vitae, ullamcorper blandit neque. Curabitur sit amet dolor blandit, interdum leo in, ornare mi. Ut dapibus orci vel diam laoreet, in posuere nisl elementum. Maecenas pellentesque neque ac sollicitudin laoreet. Curabitur orci est, sagittis vitae varius sit amet, varius sit amet arcu. Fusce quis est mi. Maecenas nec porta est. Aliquam rutrum laoreet rhoncus. Nulla in elementum orci. Sed interdum ex tellus, vitae rhoncus justo scelerisque id. Nunc et nibh eget purus auctor malesuada in eu orci. Praesent interdum blandit mauris. Nunc volutpat maximus purus ut convallis. Pellentesque accumsan ipsum a dui finibus molestie. Aenean dignissim id justo quis dignissim. Aenean lobortis lacus sit amet eros sagittis, non maximus ante pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat volutpat. Curabitur sed odio eros. Proin at nibh tincidunt felis laoreet facilisis. Vivamus efficitur enim eros, vel rutrum dolor luctus nec.]]></description>
 <slash:comments>0</slash:comments>
@@ -29,7 +29,7 @@
 <skyit:article_thumb_portale_sky><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt33de08dd3e179d16/5f293cd548d3b57cb97479d8/Visore2.jpg]]></skyit:article_thumb_portale_sky>
 <skyit:article_thumb_hires><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt33de08dd3e179d16/5f293cd548d3b57cb97479d8/Visore2.jpg]]></skyit:article_thumb_hires>
 <skyit:image><![CDATA[https://images.contentstack.io/v3/assets/bltede825e36b32bb9e/blt33de08dd3e179d16/5f293cd548d3b57cb97479d8/Visore2.jpg]]></skyit:image>
-<skyit:article_title>Ultima photogallery</skyit:article_title>
+<skyit:article_title>Bootcamp 1 Test</skyit:article_title>
 <skyit:article_summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus eleifend volutpat. Nulla quis eleifend velit. Vestibulum non ipsum ultricies eros lacinia volutpat pharetra quis dui. Donec malesuada ac tellus eu fermentum. In hac habitasse platea dictumst. Phasellus semper sagittis diam eget egestas. Vestibulum neque libero, facilisis sed ligula vitae, ullamcorper blandit neque. Curabitur sit amet dolor blandit, interdum leo in, ornare mi. Ut dapibus orci vel diam laoreet, in posuere nisl elementum. Maecenas pellentesque neque ac sollicitudin laoreet. Curabitur orci est, sagittis vitae varius sit amet, varius sit amet arcu. Fusce quis est mi. Maecenas nec porta est. Aliquam rutrum laoreet rhoncus. Nulla in elementum orci. Sed interdum ex tellus, vitae rhoncus justo scelerisque id. Nunc et nibh eget purus auctor malesuada in eu orci. Praesent interdum blandit mauris. Nunc volutpat maximus purus ut convallis. Pellentesque accumsan ipsum a dui finibus molestie. Aenean dignissim id justo quis dignissim. Aenean lobortis lacus sit amet eros sagittis, non maximus ante pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat volutpat. Curabitur sed odio eros. Proin at nibh tincidunt felis laoreet facilisis. Vivamus efficitur enim eros, vel rutrum dolor luctus nec.</skyit:article_summary>
 <skyit:article_content_html><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus eleifend volutpat. Nulla quis eleifend velit. Vestibulum non ipsum ultricies eros lacinia volutpat pharetra quis dui. Donec malesuada ac tellus eu fermentum. In hac habitasse platea dictumst. Phasellus semper sagittis diam eget egestas. Vestibulum neque libero, facilisis sed ligula vitae, ullamcorper blandit neque. Curabitur sit amet dolor blandit, interdum leo in, ornare mi. Ut dapibus orci vel diam laoreet, in posuere nisl elementum. Maecenas pellentesque neque ac sollicitudin laoreet. Curabitur orci est, sagittis vitae varius sit amet, varius sit amet arcu. Fusce quis est mi. Maecenas nec porta est. Aliquam rutrum laoreet rhoncus. Nulla in elementum orci. Sed interdum ex tellus, vitae rhoncus justo scelerisque id. Nunc et nibh eget purus auctor malesuada in eu orci. Praesent interdum blandit mauris. Nunc volutpat maximus purus ut convallis. Pellentesque accumsan ipsum a dui finibus molestie. Aenean dignissim id justo quis dignissim. Aenean lobortis lacus sit amet eros sagittis, non maximus ante pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat volutpat. Curabitur sed odio eros. Proin at nibh tincidunt felis laoreet facilisis. Vivamus efficitur enim eros, vel rutrum dolor luctus nec.</p>]]></skyit:article_content_html>
 <skyit:article_gallery>
