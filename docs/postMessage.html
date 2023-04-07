@@ -8,12 +8,22 @@
   </head>
   <body>
     <h1>Post message demo</h1>
-    <button>Send message</button>
+    <button id="sendmessage">Post message to window</button>&nbsp;<button id="sendmessageparent">Post message to parent window</button>
     <script>
-      const btn = document.querySelector('button');
+      const sendMessage = document.getElementById('sendmessage');
+      const sendMessageParent = document.getElementById('sendmessageparent');
 
-      btn.addEventListener('click', () => {
+      sendMessage.addEventListener('click', () => {
           window.postMessage('my-message', '*');
+      });
+      
+      sendMessageParent.addEventListener('click', () => {
+          window.parent.postMessage('my-parent-message', '*');
+      });
+      
+      window.addEventListener('message', message => {
+          console.log("Intercepted message:");
+          console.log(message);
       });
     </script>
   </body>
