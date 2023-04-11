@@ -11,12 +11,14 @@
     <p>Open the console to see logs</p><br>
     <button id="sendmessage">Post message to window</button>&nbsp;<button id="sendmessageparent">Post message to parent window</button>
     <h2>VA events</h2>
-    <button id="vaLink">link</button><br>
-    <button id="vaMessage">message</button><br>
-    <button id="vaMinimize">va-minimize</button><br>
-    <button id="vaResize">va-resize</button><br>
-    <button id="vaCounter">va-counter</button><br>
-    <button id="vaExpired">va-expired</button><br>
+    <ul>
+      <li><button id="vaLink">link</button></li>
+      <li><button id="vaMessage">message</button></li>
+      <li><button id="vaMinimize">va-minimize</button></li>
+      <li><button id="vaResize">va-resize</button></li>
+      <li><button id="vaCounter">va-counter</button></li>
+      <li><button id="vaExpired">va-expired</button></li>
+    </ul>
 
     <script>
       document.getElementById('sendmessage').addEventListener('click', () => {
