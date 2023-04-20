@@ -15,6 +15,7 @@
       <li><button id="vaLink">link</button></li>
       <li><button id="vaMessage">message</button></li>
       <li><button id="vaMinimize">va-minimize</button></li>
+      <li><button id="vaMinimizeParent">va-minimize postMessage parent</button></li>
       <li><button id="vaResize">va-resize</button></li>
       <li><button id="vaCounter">va-counter</button></li>
       <li><button id="vaExpired">va-expired</button></li>
@@ -39,6 +40,10 @@
       
       document.getElementById('vaMinimize').addEventListener('click', () => {
           window.postMessage(JSON.stringify({"event-type": "va-minimize"}), '*');
+      });
+      
+      document.getElementById('vaMinimizeParent').addEventListener('click', () => {
+          window.parent.postMessage(JSON.stringify({"event-type": "va-minimize"}), '*');
       });
       
       document.getElementById('vaResize').addEventListener('click', () => {
