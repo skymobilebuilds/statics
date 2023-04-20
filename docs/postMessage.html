@@ -31,7 +31,7 @@
       });
       
       document.getElementById('vaLink').addEventListener('click', () => {
-          window.postMessage(JSON.stringify({"event-type": "link", "value": "https://www.sky.it"}), '*');
+          window.postMessage({"event-type": "link", "value": "https://www.sky.it"}, '*');
       });
       
       document.getElementById('vaMessage').addEventListener('click', () => {
